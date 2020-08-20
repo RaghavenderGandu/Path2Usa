@@ -1,0 +1,4 @@
+browser = chrome
+url = https://www.path2usa.com/travel-companions
+LoginUsername= D001
+LoginPassword= password
